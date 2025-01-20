@@ -54,9 +54,9 @@ This project provides a GUI for simulating and controlling an inverted pendulum 
 
 ## Detailed Results
 
-For a comprehensive analysis, the simulation generates a detailed report in PDF format. This report includes plots, key metrics, and insights into the system's behavior. You can find the PDF report [here](https://github.com/Melaku-Y/Control-of-Inverted-Pendulum-on-a-Cart/blob/main/Melaku_MESIHU_Final_Report.pdf).
+For a comprehensive analysis, the simulation generates a detailed report in PDF format. This report includes plots, key metrics, and insights into the system's behavior. You can find the PDF report [Report](https://github.com/Melaku-Y/Control-of-Inverted-Pendulum-on-a-Cart/blob/main/Melaku_MESIHU_Final_Report.pdf).
 
-If you want a detailed user manual, please take a look at this PDF [here](https://github.com/Melaku-Y/Control-of-Inverted-Pendulum-on-a-Cart/blob/main/GUI_User_Manual.pdf).
+If you want a detailed user manual, please take a look at this PDF [User Manual](https://github.com/Melaku-Y/Control-of-Inverted-Pendulum-on-a-Cart/blob/main/GUI_User_Manual.pdf).
 
 
 
@@ -64,7 +64,7 @@ If you want a detailed user manual, please take a look at this PDF [here](https:
 
 ## Sample GUI
 
-[here](https://github.com/Melaku-Y/Control-of-Inverted-Pendulum-on-a-Cart/blob/main/GUI.png)
+![here](https://github.com/Melaku-Y/Control-of-Inverted-Pendulum-on-a-Cart/blob/main/GUI.png)
 
 ---
 
