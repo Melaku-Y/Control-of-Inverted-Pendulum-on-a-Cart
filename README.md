@@ -84,5 +84,5 @@ Experiment with different control parameters to understand the dynamics of an in
 
 ## Thank You
 
-Thank you for using the Cart-Pole Simulation GUI! We hope you find it helpful and informative.
+Thank you for using the Cart-Pole Simulation GUI! I hope you find it helpful and informative.
 
